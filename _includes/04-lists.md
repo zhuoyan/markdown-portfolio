@@ -1,4 +1,4 @@
-# wanted
+# wanted :heart:
 - [x] macbook
 - [x] iphone
 - [x] ipad
